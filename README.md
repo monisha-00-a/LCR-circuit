@@ -27,8 +27,12 @@ In an AC-powered LCR circuit, the voltage and current vary sinusoidally over tim
 1.**Tuned circuits** in radios and TV sets
 2.**Oscillators** and signal generators
 3.**Band-pass** and **band-stop filters**
-4.**Power factor correction** in AC systems
+4.**Power factor correction** in AC systems 
 5.**Sensor circuits** and automatic gain control
+
+# link :
+https://tinyurl.com/yrsnf2ls
+The above link provided is **LCR circuit** with AC Source supply, built in Circuit simulator applet. Inductor is 1H, capacitor is 10 uF, Resistor is 1k and AC Source is 40 Hz. 
 
  
 
